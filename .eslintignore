@@ -1,0 +1,13 @@
+# ignore folders
+.gitlab/
+.vscode/
+.idea/
+docs/
+node_modules/
+
+#ignore files
+scripts/commit-msg.js
+
+# ignore these file types
+**/*.json
+**/*.d.ts

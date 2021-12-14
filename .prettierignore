@@ -1,0 +1,9 @@
+dist/
+scripts/
+docs/
+node_modules/
+allure-result/
+test-reports/
+tools/
+package-lock.json
+.vscode

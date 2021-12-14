@@ -1,0 +1,13 @@
+.DS_Store
+.editorconfig
+.gitignore
+.gitattributes
+.gitlab-ci.yml
+.npmignore
+.npmrc
+npm-debug.log
+jfrog
+
+/__tests__
+
+.vscode/launch.json
